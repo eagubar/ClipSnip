@@ -1,0 +1,2 @@
+# ClipSnip
+ClipSnip by eagubar
