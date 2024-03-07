@@ -1,7 +1,8 @@
 # ClipSnip
 ClipSnip by eagubar
 
-![image](https://github.com/eagubar/ClipSnip/assets/41457204/79d2b58f-f283-40d3-81dc-e195630d7418) ![image](https://github.com/eagubar/ClipSnip/assets/41457204/f46e0c87-d1d5-48d8-8c30-b7cf783a1590)
+![image](https://github.com/eagubar/ClipSnip/assets/41457204/79d2b58f-f283-40d3-81dc-e195630d7418) ![image](https://github.com/eagubar/ClipSnip/assets/41457204/b9254fe4-b796-4d1e-a21d-ab8e87d672a7)
+
 
 # Features
 Area Selection for Screenshots: Users can select a specific area of their screen to capture using a simple mouse drag.
