@@ -30,6 +30,7 @@ While the Windows 11 Snipping Tool is a handy utility for taking screenshots, Cl
 
 
 # Getting Started
+Install tesseract-ocr
 ClipSnip is packaged as an executable file, making it incredibly straightforward to start using without the need for installing Python or any dependencies. Follow these steps to get started:
 
 Download the executable:
